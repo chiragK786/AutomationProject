@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 
 <project xmlns="http://maven.apache.org/POM/4.0.0"
@@ -26,3 +27,13 @@
     </dependencies>
 
 </project>
+=======
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>automation-demo-project</groupId>
+  <artifactId>automation-demo-project</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Automation-Demo-Project</name>
+  <description>Test Automation Framework for Automation Practice</description>
+</project>
+>>>>>>> branch 'master' of https://github.com/chiragK786/AutomationProject.git
